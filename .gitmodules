@@ -1,0 +1,3 @@
+[submodule "skeeps-api"]
+	path = skeeps-api
+	url = git@github.com:felipegarciamf/skeeps-api.git
